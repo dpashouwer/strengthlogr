@@ -10,6 +10,9 @@ fetch_training_log(key = "1UGyjRtesbrW7URbJZOr2j-3J2VL894SxigRlHquGYNg",
 \arguments{
 \item{dat}{}
 }
+\value{
+dat
+}
 \description{
 Clean the Google Sheets training log.
 }
