@@ -4,7 +4,8 @@
 \alias{fetch_training_log}
 \title{Clean the Google Sheets training log.}
 \usage{
-fetch_training_log(dat)
+fetch_training_log(key = "1UGyjRtesbrW7URbJZOr2j-3J2VL894SxigRlHquGYNg",
+  worksheet = "StrengthLog")
 }
 \arguments{
 \item{dat}{}
