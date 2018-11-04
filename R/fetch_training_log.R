@@ -3,10 +3,8 @@
 #'
 #' @param dat
 #'
-#' @return
+#' @return dat
 #' @export
-#'
-#' @examples
 fetch_training_log <- function(key = "1UGyjRtesbrW7URbJZOr2j-3J2VL894SxigRlHquGYNg", worksheet = "StrengthLog"){
   googlesheets::gs_key(key) %>%
     googlesheets::gs_read(ws = worksheet) %>%
