@@ -20,5 +20,6 @@ Imports:
     httr,
     jsonlite,
     ggplot2,
-    lazyeval
+    lazyeval,
+    googlesheets
 RoxygenNote: 6.1.0
