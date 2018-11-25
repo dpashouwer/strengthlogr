@@ -3,6 +3,7 @@
 export("%>%")
 export(add_exercise)
 export(build_microcycle)
+export(fetch_program_template)
 export(fetch_training_log)
 export(new_workout)
 importFrom(magrittr,"%>%")
