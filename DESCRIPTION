@@ -1,6 +1,6 @@
 Package: strengthlogr
 Type: Package
-Title: Package describes how I log and analyze my strength training programming.
+Title: Package describes how I log and analyze my strength training programming
 Version: 0.1.0
 Author: c(person("Dustin", "Pashouwer", email = "dpashouwer@gmail.com", role = 
     c("aut", "cre"))
